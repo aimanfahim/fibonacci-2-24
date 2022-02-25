@@ -1,0 +1,8 @@
+C:\Users\aimen\source\repos\GAME 1343\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\aimen\source\repos\GAME 1343\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\aimen\source\repos\GAME 1343\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\aimen\source\repos\GAME 1343\fibonacci\obj\Debug\fibonacci.csproj.AssemblyReference.cache
+C:\Users\aimen\source\repos\GAME 1343\fibonacci\obj\Debug\fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\aimen\source\repos\GAME 1343\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\aimen\source\repos\GAME 1343\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\aimen\source\repos\GAME 1343\fibonacci\obj\Debug\fibonacci.pdb
